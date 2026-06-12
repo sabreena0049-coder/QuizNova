@@ -168,3 +168,11 @@ QuizNova is an efficient and interactive quiz platform that combines learning wi
 quiz experience without requiring complex infrastructure. The use of randomized questions, timed assessments, category-based quizzes, and leaderboard tracking makes the 
 platform engaging and effective for users. This project demonstrates essential software development concepts such as user interaction, data management, randomization, file
 handling, and performance evaluation, making it an excellent educational and portfolio project.
+
+<img width="1920" height="888" alt="Image" src="https://github.com/user-attachments/assets/24d4457f-7443-4c8b-af51-212d6e1c298a" />
+
+<img width="1920" height="960" alt="Image" src="https://github.com/user-attachments/assets/44e56f94-dfe3-4113-9d77-22519116f957" />
+
+<img width="1915" height="959" alt="Image" src="https://github.com/user-attachments/assets/4b7723b3-d596-4159-802c-23b2188bd3a4" />
+
+<img width="1920" height="894" alt="Image" src="https://github.com/user-attachments/assets/432c7468-e37e-40da-85d9-c057666c770b" />
