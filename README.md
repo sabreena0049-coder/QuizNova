@@ -17,15 +17,11 @@ MENTOR : NEELA SANTOSH
 ## Overview
 
 QuizNova is a dynamic and interactive quiz platform developed using Python and Streamlit. The application is designed to provide users with an engaging environment to test
-
 their knowledge across multiple technical and aptitude-based categories. Unlike traditional quiz systems that present the same set of questions repeatedly, QuizNova
-
 introduces randomness by selecting different questions for every quiz attempt. This ensures a unique experience for users each time they participate.
 
 The platform has been built as a lightweight application without requiring a separate frontend, backend, or database. All functionalities are integrated into a simple
-
 Streamlit-based interface, making the project easy to deploy, maintain, and use. QuizNova is suitable for students, educators, and learners who wish to evaluate their
-
 knowledge while tracking their performance through a leaderboard system.
 
 ## Objectives
