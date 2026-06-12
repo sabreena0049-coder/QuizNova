@@ -165,9 +165,6 @@ The project can be further enhanced by adding:
 ## Conclusion
 
 QuizNova is an efficient and interactive quiz platform that combines learning with competition. By leveraging Python and Streamlit, the application delivers a complete 
-
 quiz experience without requiring complex infrastructure. The use of randomized questions, timed assessments, category-based quizzes, and leaderboard tracking makes the 
-
 platform engaging and effective for users. This project demonstrates essential software development concepts such as user interaction, data management, randomization, file
-
 handling, and performance evaluation, making it an excellent educational and portfolio project.
