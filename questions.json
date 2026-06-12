@@ -1,0 +1,5502 @@
+[
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (1)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (1)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (1)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (1)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (1)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (1)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (1)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (1)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (1)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (1)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (1)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (1)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (1)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (1)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (1)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (1)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (1)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (1)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (1)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (1)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (1)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (1)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (1)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (1)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (1)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (2)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (2)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (2)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (2)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (2)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (2)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (2)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (2)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (2)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (2)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (2)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (2)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (2)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (2)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (2)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (2)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (2)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (2)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (2)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (2)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (2)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (2)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (2)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (2)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (2)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (3)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (3)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (3)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (3)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (3)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (3)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (3)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (3)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (3)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (3)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (3)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (3)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (3)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (3)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (3)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (3)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (3)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (3)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (3)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (3)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (3)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (3)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (3)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (3)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (3)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (4)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (4)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (4)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (4)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (4)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (4)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (4)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (4)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (4)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (4)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (4)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (4)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (4)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (4)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (4)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (4)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (4)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (4)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (4)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (4)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (4)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (4)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (4)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (4)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (4)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (5)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (5)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (5)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (5)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (5)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (5)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (5)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (5)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (5)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (5)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (5)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (5)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (5)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (5)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (5)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (5)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (5)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (5)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (5)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (5)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (5)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (5)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (5)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (5)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (5)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (6)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (6)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (6)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (6)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (6)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (6)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (6)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (6)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (6)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (6)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (6)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (6)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (6)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (6)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (6)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (6)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (6)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (6)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (6)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (6)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (6)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (6)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (6)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (6)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (6)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (7)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (7)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (7)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (7)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (7)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (7)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (7)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (7)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (7)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (7)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (7)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (7)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (7)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (7)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (7)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (7)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (7)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (7)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (7)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (7)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (7)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (7)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (7)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (7)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (7)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (8)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (8)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (8)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (8)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (8)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (8)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (8)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (8)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (8)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (8)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (8)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (8)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (8)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (8)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (8)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (8)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (8)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (8)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (8)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (8)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (8)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (8)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (8)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (8)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (8)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (9)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (9)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (9)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (9)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (9)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (9)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (9)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (9)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (9)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (9)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (9)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (9)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (9)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (9)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (9)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (9)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (9)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (9)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (9)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (9)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (9)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (9)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (9)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (9)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (9)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (10)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (10)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (10)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (10)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (10)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (10)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (10)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (10)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (10)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (10)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (10)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (10)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (10)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (10)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (10)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (10)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (10)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (10)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (10)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (10)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (10)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (10)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (10)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (10)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (10)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (11)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (11)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (11)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (11)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (11)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (11)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (11)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (11)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (11)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (11)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (11)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (11)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (11)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (11)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (11)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (11)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (11)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (11)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (11)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (11)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (11)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (11)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (11)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (11)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (11)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (12)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (12)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (12)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (12)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (12)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (12)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (12)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (12)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (12)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (12)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (12)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (12)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (12)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (12)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (12)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (12)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (12)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (12)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (12)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (12)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (12)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (12)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (12)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (12)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (12)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (13)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (13)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (13)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (13)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (13)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (13)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (13)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (13)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (13)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (13)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (13)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (13)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (13)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (13)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (13)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (13)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (13)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (13)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (13)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (13)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (13)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (13)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (13)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (13)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (13)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (14)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (14)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (14)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (14)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (14)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (14)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (14)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (14)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (14)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (14)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (14)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (14)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (14)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (14)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (14)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (14)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (14)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (14)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (14)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (14)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (14)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (14)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (14)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (14)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (14)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (15)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (15)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (15)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (15)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (15)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (15)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (15)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (15)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (15)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (15)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (15)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (15)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (15)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (15)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (15)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (15)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (15)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (15)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (15)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (15)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (15)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (15)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (15)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (15)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (15)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (16)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (16)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (16)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (16)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (16)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (16)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (16)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (16)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (16)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (16)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (16)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (16)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (16)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (16)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (16)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (16)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (16)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (16)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (16)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (16)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (16)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (16)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (16)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (16)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (16)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (17)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (17)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (17)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (17)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (17)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (17)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (17)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (17)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (17)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (17)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (17)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (17)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (17)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (17)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (17)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (17)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (17)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (17)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (17)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (17)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (17)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (17)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (17)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (17)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (17)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (18)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (18)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (18)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (18)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (18)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (18)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (18)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (18)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (18)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (18)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (18)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (18)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (18)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (18)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (18)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (18)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (18)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (18)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (18)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (18)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (18)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (18)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (18)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (18)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (18)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (19)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (19)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (19)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (19)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (19)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (19)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (19)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (19)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (19)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (19)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (19)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (19)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (19)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (19)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (19)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (19)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (19)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (19)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (19)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (19)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (19)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (19)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (19)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (19)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (19)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function in Python? (20)",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output type of input() in Python? (20)",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "str"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable? (20)",
+        "options": [
+            "List",
+            "Dictionary",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Tuple"
+    },
+    {
+        "category": "Python",
+        "question": "Which symbol is used for comments? (20)",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "category": "Python",
+        "question": "Which function returns the length of a list? (20)",
+        "options": [
+            "count()",
+            "size()",
+            "length()",
+            "len()"
+        ],
+        "answer": "len()"
+    },
+    {
+        "category": "Java",
+        "question": "Which method is the entry point of a Java application? (20)",
+        "options": [
+            "run()",
+            "main()",
+            "start()",
+            "init()"
+        ],
+        "answer": "main()"
+    },
+    {
+        "category": "Java",
+        "question": "Java is a _____ language. (20)",
+        "options": [
+            "Procedure-oriented",
+            "Object-oriented",
+            "Machine",
+            "Assembly"
+        ],
+        "answer": "Object-oriented"
+    },
+    {
+        "category": "Java",
+        "question": "Which keyword is used for inheritance? (20)",
+        "options": [
+            "inherits",
+            "extends",
+            "implement",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "category": "Java",
+        "question": "Which package is imported by default? (20)",
+        "options": [
+            "java.io",
+            "java.util",
+            "java.lang",
+            "java.sql"
+        ],
+        "answer": "java.lang"
+    },
+    {
+        "category": "Java",
+        "question": "Which operator compares object references? (20)",
+        "options": [
+            "==",
+            "equals()",
+            "!=",
+            "compare()"
+        ],
+        "answer": "=="
+    },
+    {
+        "category": "DBMS",
+        "question": "What does DBMS stand for? (20)",
+        "options": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Base Management System",
+            "Database Mapping System"
+        ],
+        "answer": "Database Management System"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which key uniquely identifies a record? (20)",
+        "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Candidate Key",
+            "Alternate Key"
+        ],
+        "answer": "Primary Key"
+    },
+    {
+        "category": "DBMS",
+        "question": "SQL stands for? (20)",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "System Query Language",
+            "Sequential Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which normal form removes partial dependency? (20)",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "2NF"
+    },
+    {
+        "category": "DBMS",
+        "question": "Which command removes all rows but keeps table structure? (20)",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "TRUNCATE",
+            "DROP"
+        ],
+        "answer": "TRUNCATE"
+    },
+    {
+        "category": "OS",
+        "question": "What does OS stand for? (20)",
+        "options": [
+            "Open System",
+            "Operating System",
+            "Object System",
+            "Online System"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling algorithm gives minimum average waiting time? (20)",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF",
+            "Priority"
+        ],
+        "answer": "SJF"
+    },
+    {
+        "category": "OS",
+        "question": "Which memory is volatile? (20)",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "category": "OS",
+        "question": "Which scheduling is preemptive? (20)",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "FIFO"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "category": "OS",
+        "question": "Deadlock occurs when? (20)",
+        "options": [
+            "Processes cooperate",
+            "Resources are shared safely",
+            "Processes wait indefinitely",
+            "Memory is free"
+        ],
+        "answer": "Processes wait indefinitely"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 25% of 200? (20)",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "category": "Aptitude",
+        "question": "If a train travels 60 km in 1 hour, its speed is? (20)",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "answer": "60 km/h"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is the square root of 144? (20)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "category": "Aptitude",
+        "question": "A number increased by 20% becomes 120. Original number? (20)",
+        "options": [
+            "100",
+            "110",
+            "90",
+            "80"
+        ],
+        "answer": "100"
+    },
+    {
+        "category": "Aptitude",
+        "question": "What is 15 \u00d7 8? (20)",
+        "options": [
+            "100",
+            "110",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    }
+]
